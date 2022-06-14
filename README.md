@@ -6,7 +6,7 @@ It follows this logic:
 >Loop through x coordinate for each frame:\
        if no face found (ie no x coordinate):\
                 go to previous frame and find x coordinate\
-                         if xcoord > 150 then this is likely a face swap\
+                         if xcoord > 150 then this is likely a face swap
 
 There are two files:
 
